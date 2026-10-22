@@ -18,8 +18,6 @@ Este espaço reúne meus projetos acadêmicos, experimentações criativas e tra
 
 ## Ferramentas e tecnologias
 
-- HTML5
-- CSS3
 - Adobe Photoshop
 - Adobe Illustrator
 
